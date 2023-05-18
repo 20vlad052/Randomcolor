@@ -32,4 +32,27 @@
     font-size: 2em;
     text-align: center;
   }
- 
+  .display.blue {
+    background-color: #007FFF;
+    color: white;
+  }
+  
+  .display.red {
+    background-color: #ED1C24;
+    color: white;
+  }
+  
+  .display.green {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .display.yellow {
+    background-color: #FFE200;
+    color: #444444;
+  }
+  
+  .display.purple {
+    background-color: #9B26AF;
+    color: white;
+  }
